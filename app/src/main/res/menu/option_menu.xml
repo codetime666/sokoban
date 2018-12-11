@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemMusic"
+        android:icon="@drawable/optionmenu_music"
+        android:title="@string/musicText" />
+
+    <item
+        android:id="@+id/itemHelp"
+        android:icon="@drawable/optionmenu_help"
+        android:title="@string/helpText" />
+
+    <item
+        android:id="@+id/itemBack"
+        android:icon="@drawable/game_goback"
+        android:title="@string/back_text" />
+</menu>

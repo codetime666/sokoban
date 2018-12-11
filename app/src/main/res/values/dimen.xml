@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These was related to our `game` (Wooooo!). -->
+    <dimen name="titleTextSize">30sp</dimen>
+    <dimen name="btnTextSize">18sp</dimen>
+    <dimen name="btnWidth">200dp</dimen>
+    <dimen name="titleHeight">50dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">推箱子</string>
+    <string name="menu_settings">Setting</string>
+    <string name="menu_help">www.google.com or www.baidu.com</string>
+    <string name="back_text">Back</string>
+    <string name="musicText">Music</string>
+    <string name="helpText">Help</string>
+
+
+    <string name="helpContent">
+
+    </string>
+    <string name="Games_start">开始游戏</string>
+    <string name="About_the_game">关于游戏</string>
+    <string name="Continue_the_game">继续游戏</string>
+    <string name="exit_the_game">退出游戏</string>
+    <string name="about_remind">这是一款好玩的游戏</string>
+
+
+    <string name="musicKey">Music</string>
+    <string name="musicTitle">playing:brave heart</string>
+    <string name="musicOn">Music On</string>
+    <string name="musicOff">Music Off</string>
+</resources>

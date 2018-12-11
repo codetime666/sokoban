@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="game_bg">#5A9165</color>
+    <color name="Games_start">#5F7A6E</color>
+    <color name="About_the_game">#396390</color>
+    <color name="Continue_the_game"> #767C50 </color>
+    <color name="exit_the_game">#73B24C</color>
+    <color name="game_about">#BD979A</color>
+    <color name="game_help">#BD979A</color>
+</resources>

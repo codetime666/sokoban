@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        This file MUST be put into the `res/xml` folder (I dunno XD)
+
+        This file is related to
+            `LearnWidget_OptionMenu_SubMusic`
+
+        And one more (Key) change in `AndroidManifest.xml`
+
+            <activity
+                android:name=".LearnWidget_OptionMenu_SubMusic" />
+                            ||
+            <activity
+                android:name=".LearnWidget_OptionMenu_SubMusic"
+                android:theme="android:theme="@android:style/Theme.Dialog">
+
+            Ya can change the theme to (Much BETTER!!!)
+                `android:theme="@android:style/ThemeOverlay.Material.Dialog"`
+    -->
+
+    <CheckBoxPreference
+        android:key="@string/musicKey"
+        android:summaryOff="@string/musicOff"
+        android:summaryOn="@string/musicOn"
+        android:title="@string/musicTitle" />
+
+</PreferenceScreen>
